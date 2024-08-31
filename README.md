@@ -2,7 +2,7 @@
 
 
 # PestDetect
-By Team Inspiration - 1st Place University Team in the 2023 Call for Code Global Challenge - Round 3
+**A Project by Team Inspiration - 1st Place University Team in the 2023 Call for Code Global Challenge - Round 3**
 (https://developer.ibm.com/blogs/global_challenge_round_3_winners/)
 
 - [Project summary](#project-summary)
